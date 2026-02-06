@@ -1,0 +1,8 @@
+[project]
+name = "pdf-access"
+version = "0.1.0"
+description = "Heuristic PDF accessibility auditing CLI"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
